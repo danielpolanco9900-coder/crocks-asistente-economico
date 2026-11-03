@@ -2,3 +2,9 @@
 streamlit
 supabase
 groq
+pip install supabase
+pip install supabase
+streamlit
+requests
+supabase
+python-dotenv
