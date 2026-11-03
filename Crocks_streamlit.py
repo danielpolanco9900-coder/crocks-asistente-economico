@@ -489,11 +489,7 @@ if st.session_state.mensajes:
 
     st.download_button(
         "Descargar conversación",
-        data=transcripcion,git reset --soft origin/main
-git restore --staged .
-git add Crocks_streamlit.py requirements.txt
-git commit -m "CROCKS con Supabase"
-git push origin main
+        data=transcripcion,
         file_name="conversacion_crocks.txt",
         mime="text/plain",
     )
